@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: PhD student at <a href='https://www.uni-osnabrueck.de/'>Osnabrück University</a>.
 profile:
   align: right
   image: prof_pic.jpg
