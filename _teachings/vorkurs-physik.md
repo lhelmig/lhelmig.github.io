@@ -56,7 +56,7 @@ Dieser Kurs soll als Einführung in die Mathematik des Physikstudiums dienen. Da
 
 Aber der eigentliche Grund für diesen Kurs ist, dass ihr Personen kennenlernt, mit denen ihr das Physikstudium zusammen bestreiten könnt. Also kommt auf jeden Fall!
 
-Hier findet ihr sowohl eine aktuelle Version des Skripts, als auch die Übungsblätter.
+Hier findet ihr sowohl eine aktuelle Version des [Skriptes]({{ '/assets/pdf/vorkurs-skript.pdf' | relative_url }}), als auch die Übungsblätter.
 
 ## Bücher
 
