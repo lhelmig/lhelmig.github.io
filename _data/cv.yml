@@ -1,161 +1,160 @@
 cv:
-  name: Lukas Helmig[cite: 1]
-  label: Physicist[cite: 1]
-  email: lukas.helmig@t-online.de[cite: 1]
-  phone: "+49 (0) 171 6239717"[cite: 1]
-  location: Osnabrück, Germany[cite: 1]
+  name: "Lukas Helmig" #[cite: 1]
+  label: "Physicist" #[cite: 1]
+  email: "lukas.helmig@t-online.de" #[cite: 1]
+  phone: "+49 (0) 171 6239717" #[cite: 1]
+  location: "Köln, Germany" #[cite: 1]
   image: ""
-  summary: PhD student in Theoretical Physics.[cite: 1]
+  summary: "Physics MSc student specializing in Solid State Theory and Quantum Information Science with strong background in theoretical physics and numerical programming." #[cite: 1]
 
   social_networks: []
 
   address:
-    street: Barbarastraße 7 [cite: 1]
-    city: Osnabrück[cite: 1]
-    region: Niedersachsen[cite: 1]
-    postalCode: "49076"[cite: 1]
-    countryCode: DE
+    street: "Bachemer Straße 107, Haus 16, WG 2.1" #[cite: 1]
+    city: "Köln" #[cite: 1]
+    region: "Nordrhein-Westfalen"
+    postalCode: "50931" #[cite: 1]
+    countryCode: "DE"
 
   sections:
     Education:
-
-      - institution: University of Cologne[cite: 1]
-        location: Cologne, Germany[cite: 1]
-        area: Physics[cite: 1]
-        studyType: MSc[cite: 1]
-        start_date: 2022[cite: 1]
-        end_date: 2025[cite: 1]
-        score: "1.1"[cite: 1]
-        courses: ""
-        highlights:
-          - "Member of the honors branch"[cite: 1]
-          - "Specialization in Solid State Theory and Quantum Information Science"[cite: 1]
-          - "Thesis on Restricted Boltzmann Machines and Hopfield Networks"[cite: 1]
-      - institution: École normale supérieure - PSL[cite: 1]
-        location: Paris, France[cite: 1]
-        area: Theoretical Physics (ICFP M2)[cite: 1]
-        studyType: Erasmus exchange semester[cite: 1]
-        start_date: 2023[cite: 1]
-        end_date: 2024[cite: 1]
+      - institution: "École normale supérieure - PSL" #[cite: 1]
+        location: "Paris, France" #[cite: 1]
+        area: "Theoretical Physics (ICFP M2)" #[cite: 1]
+        studyType: "Erasmus exchange semester" #[cite: 1]
+        start_date: 2023 #[cite: 1]
+        end_date: 2024 #[cite: 1]
         score: ""
-        courses: "Quantum Field Theory, Advanced Statistical Physics, Statistical Field Theory, French language classes"[cite: 1]
+        courses: "Quantum Field Theory, Advanced Statistical Physics, Statistical Field Theory, French language classes" #[cite: 1]
         highlights:
-          - "Erasmus exchange semester in the theoretical physics track"[cite: 1]
+          - "Erasmus exchange semester in the theoretical physics track" #[cite: 1]
 
-      - institution: University of Osnabrück[cite: 1]
-        location: Osnabrück, Germany[cite: 1]
-        area: Physics[cite: 1]
-        studyType: BSc[cite: 1]
-        start_date: 2018[cite: 1]
-        end_date: 2021[cite: 1]
-        score: "1.1"[cite: 1]
+      - institution: "University of Cologne" #[cite: 1]
+        location: "Cologne, Germany" #[cite: 1]
+        area: "Physics" #[cite: 1]
+        studyType: "MSc" #[cite: 1]
+        start_date: 2022 #[cite: 1]
+        end_date: 2024 #[cite: 1]
+        score: "1.0" #[cite: 1]
         courses: ""
         highlights:
-          - "Best of the year, GPA 1.1, graduated with honors"[cite: 1]
-          - "Dissertation in the theme of stochastic thermodynamics on efficiency and power generation of quantum machines"[cite: 1]
+          - "Member of the honors branch, current GPA of 1.0" #[cite: 1]
+          - "Specialization in Solid State Theory and Quantum Information Science" #[cite: 1]
 
-      - institution: Greselius Gymnasium Bramsche[cite: 1]
-        location: Bramsche, Germany[cite: 1]
-        area: A levels (Abitur)[cite: 1]
-        studyType: Abitur[cite: 1]
-        start_date: 2009[cite: 1]
-        end_date: 2017[cite: 1]
-        score: "1.3"[cite: 1]
+      - institution: "University of Osnabrück" #[cite: 1]
+        location: "Osnabrück, Germany" #[cite: 1]
+        area: "Physics" #[cite: 1]
+        studyType: "BSc" #[cite: 1]
+        start_date: 2018 #[cite: 1]
+        end_date: 2021 #[cite: 1]
+        score: "1.1" #[cite: 1]
         courses: ""
         highlights:
-          - "Top of the year, GPA 1.3 (Germany)"[cite: 1]
+          - "Top of the year, GPA 1.1 (Germany), graduated with honors" #[cite: 1]
+          - "Dissertation in the theme of stochastic thermodynamics on efficiency and power generation of quantum machines" #[cite: 1]
+
+      - institution: "Greselius Gymnasium Bramsche" #[cite: 1]
+        location: "Bramsche, Germany" #[cite: 1]
+        area: "A levels (Abitur)" #[cite: 1]
+        studyType: "Abitur" #[cite: 1]
+        start_date: 2009 #[cite: 1]
+        end_date: 2017 #[cite: 1]
+        score: "1.3" #[cite: 1]
+        courses: ""
+        highlights:
+          - "Top of the year, GPA 1.3 (Germany)" #[cite: 1]
 
     Experience:
-      - company: University of Osnabrück, Faculty of Physics[cite: 1]
-        position: Research assistant[cite: 1]
-        location: Osnabrück, Germany[cite: 1]
-        start_date: 2021[cite: 1]
-        end_date: 2023[cite: 1]
-        summary: Employed in the Emmy Noether group Metal Coordination Nano Structures[cite: 1]
+      - company: "University of Osnabrück, Faculty of Physics" #[cite: 1]
+        position: "Research assistant" #[cite: 1]
+        location: "Osnabrück, Germany" #[cite: 1]
+        start_date: 2021 #[cite: 1]
+        end_date: 2023 #[cite: 1]
+        summary: "Employed in the Emmy Noether group Metal Coordination Nano Structures" #[cite: 1]
         highlights:
-          - "Made important design decisions for a workstation to improve current sensors used in atomic force microscopy and managed the building process"[cite: 1]
-          - "Worked on a physical development environment for the VRnano project, where I assembled a 3D Printer and made profound changes to the software (Klipper)"[cite: 1]
+          - "Made important design decisions for a workstation to improve current sensors used in atomic force microscopy and managed the building process" #[cite: 1]
+          - "Worked on a physical development environment for the VRnano project, where I assembled a 3D Printer and made profound changes to the software (Klipper)" #[cite: 1]
 
-      - company: University of Osnabrück, Faculty of Physics & Mathematics[cite: 1]
-        position: Teaching assistant[cite: 1]
-        location: Osnabrück, Germany[cite: 1]
-        start_date: 2019[cite: 1]
-        end_date: 2021[cite: 1]
+      - company: "University of Osnabrück, Faculty of Physics & Mathematics" #[cite: 1]
+        position: "Teaching assistant" #[cite: 1]
+        location: "Osnabrück, Germany" #[cite: 1]
+        start_date: 2019 #[cite: 1]
+        end_date: 2021 #[cite: 1]
         summary: ""
         highlights:
-          - "Held tutorial lectures (~10 participants)"[cite: 1]
-          - "Supervised practice lessons (~20 participants) and graded exams"[cite: 1]
+          - "Held tutorial lectures (~10 participants)" #[cite: 1]
+          - "Supervised practice lessons (~20 participants) and graded exams" #[cite: 1]
 
     Awards:
-      - title: Honors branch, University of Cologne Scholarship[cite: 1]
+      - title: "Honors branch, University of Cologne Scholarship" #[cite: 1]
         authors:
-          - "University of Cologne"[cite: 1]
-        date: 2022[cite: 1]
-        awarder: University of Cologne[cite: 1]
-        summary: "Scholarship recipient"[cite: 1]
+          - "University of Cologne" #[cite: 1]
+        date: 2022 #[cite: 1]
+        awarder: "University of Cologne" #[cite: 1]
+        summary: "Scholarship recipient" #[cite: 1]
 
-      - title: Niedersachsenstipendium Scholarship[cite: 1]
+      - title: "Niedersachsenstipendium Scholarship" #[cite: 1]
         authors:
-          - "State of Lower Saxony"[cite: 1]
-        date: 2021[cite: 1]
-        awarder: State of Lower Saxony[cite: 1]
-        summary: "Scholarship recipient"[cite: 1]
+          - "State of Lower Saxony" #[cite: 1]
+        date: 2021 #[cite: 1]
+        awarder: "State of Lower Saxony" #[cite: 1]
+        summary: "Scholarship recipient" #[cite: 1]
 
-      - title: Deutschlandstipendium Scholarship[cite: 1]
+      - title: "Deutschlandstipendium Scholarship" #[cite: 1]
         authors:
-          - "Federal Ministry of Education and Research"[cite: 1]
-        date: 2019[cite: 1]
-        awarder: Federal Ministry of Education and Research[cite: 1]
-        summary: "Scholarship recipient (2019–2021)"[cite: 1]
+          - "Federal Ministry of Education and Research" #[cite: 1]
+        date: 2019 #[cite: 1]
+        awarder: "Federal Ministry of Education and Research" #[cite: 1]
+        summary: "Scholarship recipient (2019–2021)" #[cite: 1]
 
     Skills:
-      - name: Programming & Tools[cite: 1]
-        level: Advanced[cite: 1]
-        icon: fa-solid fa-code
-        keywords: "Python, Mathematica, Matlab, C++, Java, Klipper"[cite: 1]
+      - name: "Programming & Tools" #[cite: 1]
+        level: "Advanced" #[cite: 1]
+        icon: "fa-solid fa-code"
+        keywords: "Python, Mathematica, Matlab, C++, Java, Klipper" #[cite: 1]
 
-      - name: Computer Science[cite: 1]
-        level: Advanced[cite: 1]
-        icon: fa-solid fa-laptop-code
-        keywords: "Algorithms & Data Structures (Java), Software Development (Java), Technical Computer Science (Assembly), Theoretical Computer Science, Artificial Intelligence (Python)"[cite: 1]
+      - name: "Computer Science" #[cite: 1]
+        level: "Advanced" #[cite: 1]
+        icon: "fa-solid fa-laptop-code"
+        keywords: "Algorithms & Data Structures (Java), Software Development (Java), Technical Computer Science (Assembly), Theoretical Computer Science, Artificial Intelligence (Python)" #[cite: 1]
 
-      - name: Mathematics & Physics[cite: 1]
-        level: Master[cite: 1]
-        icon: fa-solid fa-atom
-        keywords: "Analysis, Linear Algebra, Complex Analysis, Probability Theory, Differential Equations, Itô Calculus, Statistical Physics, Stochastic Dynamical Systems"[cite: 1]
+      - name: "Mathematics & Physics" #[cite: 1]
+        level: "Master" #[cite: 1]
+        icon: "fa-solid fa-atom"
+        keywords: "Analysis, Linear Algebra, Complex Analysis, Probability Theory, Differential Equations, Itô Calculus, Statistical Physics, Stochastic Dynamical Systems" #[cite: 1]
 
     Languages:
-      - name: German[cite: 1]
-        summary: "Native speaker"[cite: 1]
+      - name: "German" #[cite: 1]
+        summary: "Native speaker" #[cite: 1]
 
-      - name: English[cite: 1]
-        summary: "Fluent"[cite: 1]
+      - name: "English" #[cite: 1]
+        summary: "Fluent" #[cite: 1]
 
-      - name: Spanish[cite: 1]
-        summary: "CEFR A2"[cite: 1]
+      - name: "Spanish" #[cite: 1]
+        summary: "CEFR A2" #[cite: 1]
 
-      - name: French[cite: 1]
-        summary: "CEFR ~A1-A2"[cite: 1]
+      - name: "French" #[cite: 1]
+        summary: "CEFR ~A1-A2" #[cite: 1]
 
     Interests:
-      - name: Personal Interests[cite: 1]
-        icon: fa-solid fa-heart
-        keywords: "Lacrosse, Tennis, 3D-Printing, Fachschaft, Pen & Paper, Board games"[cite: 1]
+      - name: "Personal Interests" #[cite: 1]
+        icon: "fa-solid fa-heart"
+        keywords: "Lacrosse, Tennis, 3D-Printing, Fachschaft, Pen & Paper, Board games" #[cite: 1]
 
     Projects:
-      - name: VRnano project[cite: 1]
-        summary: "Worked on a physical development environment where I assembled a 3D Printer and made profound changes to the software (Klipper)"[cite: 1]
+      - name: "VRnano project" #[cite: 1]
+        summary: "Worked on a physical development environment where I assembled a 3D Printer and made profound changes to the software (Klipper)" #[cite: 1]
         highlights:
-          - "3D Printer assembly"[cite: 1]
-          - "Klipper software modification"[cite: 1]
-        start_date: 2021[cite: 1]
-        end_date: 2023[cite: 1]
+          - "3D Printer assembly" #[cite: 1]
+          - "Klipper software modification" #[cite: 1]
+        start_date: 2021 #[cite: 1]
+        end_date: 2023 #[cite: 1]
 
-      - name: Numerical Software Projects[cite: 1]
-        summary: "Implemented numerical software projects about statistical inference, agent-based modelling and statistical physics in Python and C++"[cite: 1]
+      - name: "Numerical Software Projects" #[cite: 1]
+        summary: "Implemented numerical software projects about statistical inference, agent-based modelling and statistical physics in Python and C++" #[cite: 1]
         highlights:
-          - "Statistical Inference"[cite: 1]
-          - "Agent-based Modelling"[cite: 1]
-          - "Statistical Physics"[cite: 1]
+          - "Statistical Inference" #[cite: 1]
+          - "Agent-based Modelling" #[cite: 1]
+          - "Statistical Physics" #[cite: 1]
         start_date: ""
         end_date: ""
