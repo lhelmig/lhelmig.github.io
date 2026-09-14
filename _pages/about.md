@@ -8,10 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>32/261</p>
-    <p>Barbarastraße 7</p>
-    <p>49076 Osnabrück</p>
+  more_info: |
+    32/261 <br>
+    Barbarastraße 7 <br>
+    49076 Osnabrück
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
