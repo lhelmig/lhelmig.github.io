@@ -1,160 +1,113 @@
 cv:
-  name: "Lukas Helmig" #[cite: 1]
-  label: "Physicist" #[cite: 1]
-  email: "lukas.helmig@t-online.de" #[cite: 1]
-  phone: "+49 (0) 171 6239717" #[cite: 1]
-  location: "Köln, Germany" #[cite: 1]
+  name: Lukas Helmig
+  label: PhD Student in Theoretical Physics
+  email: lhelmig@uni-osnabrueck.de
+  location: Onsabrück, Germany
   image: ""
-  summary: "Physics MSc student specializing in Solid State Theory and Quantum Information Science with strong background in theoretical physics and numerical programming." #[cite: 1]
-
-  social_networks: []
+ 
+  social_networks:
+    - network: GitHub
+      username: lhelmig
+    - network: LinkedIn
+      username: lukashelmig
+    - network: Google Scholar
+      username: wm_q0_UAAAAJ
 
   address:
-    street: "Bachemer Straße 107, Haus 16, WG 2.1" #[cite: 1]
-    city: "Köln" #[cite: 1]
-    region: "Nordrhein-Westfalen"
-    postalCode: "50931" #[cite: 1]
-    countryCode: "DE"
+    street: Barbarastraße 7
+    city: Osnabrück
+    region: Niedersachsen
+    postalCode: 49076
+    countryCode: DE
 
   sections:
     Education:
-      - institution: "École normale supérieure - PSL" #[cite: 1]
-        location: "Paris, France" #[cite: 1]
-        area: "Theoretical Physics (ICFP M2)" #[cite: 1]
-        studyType: "Erasmus exchange semester" #[cite: 1]
-        start_date: 2023 #[cite: 1]
-        end_date: 2024 #[cite: 1]
-        score: ""
-        courses: "Quantum Field Theory, Advanced Statistical Physics, Statistical Field Theory, French language classes" #[cite: 1]
+      - institution: Osnabrück University
+        location: Osnabrück, Germany
+        url: https://www.uni-osnabrueck.de/
+        area: Physics
+        studyType: PhD
+        start_date: 2025
+        end_date: 2028
         highlights:
-          - "Erasmus exchange semester in the theoretical physics track" #[cite: 1]
+          - Investigating equilibration in disordered systems.
 
-      - institution: "University of Cologne" #[cite: 1]
-        location: "Cologne, Germany" #[cite: 1]
-        area: "Physics" #[cite: 1]
-        studyType: "MSc" #[cite: 1]
-        start_date: 2022 #[cite: 1]
-        end_date: 2024 #[cite: 1]
-        score: "1.0" #[cite: 1]
-        courses: ""
+      - institution: University of Cologne
+        location: Cologne, Germany
+        area: Physics
+        studyType: Master of Science
+        start_date: 2022
+        end_date: 2025
         highlights:
-          - "Member of the honors branch, current GPA of 1.0" #[cite: 1]
-          - "Specialization in Solid State Theory and Quantum Information Science" #[cite: 1]
+          - Top of the year.
+          - Specialized in solid state theory and quantum information.
+          - Master thesis: Restricted Boltzmann Machines and Hopfield Networks
 
-      - institution: "University of Osnabrück" #[cite: 1]
-        location: "Osnabrück, Germany" #[cite: 1]
-        area: "Physics" #[cite: 1]
-        studyType: "BSc" #[cite: 1]
-        start_date: 2018 #[cite: 1]
-        end_date: 2021 #[cite: 1]
-        score: "1.1" #[cite: 1]
-        courses: ""
+      - institution: Ecole Normale Supérieure de Paris
+        location: Paris, France
+        area: Physics
+        studyType: Erasmus exchange
+        start_date: 2023
+        end_date: 2024
         highlights:
-          - "Top of the year, GPA 1.1 (Germany), graduated with honors" #[cite: 1]
-          - "Dissertation in the theme of stochastic thermodynamics on efficiency and power generation of quantum machines" #[cite: 1]
+          - Participated in the Erasmus exchange program, focusing on advanced topics in theoretical physics.
 
-      - institution: "Greselius Gymnasium Bramsche" #[cite: 1]
-        location: "Bramsche, Germany" #[cite: 1]
-        area: "A levels (Abitur)" #[cite: 1]
-        studyType: "Abitur" #[cite: 1]
-        start_date: 2009 #[cite: 1]
-        end_date: 2017 #[cite: 1]
-        score: "1.3" #[cite: 1]
-        courses: ""
+      - institution: Osnabrück University
+        location: Osnabrück, Germany
+        area: Physics
+        studyType: Bachelor of Science
+        start_date: 2018
+        end_date: 2021
         highlights:
-          - "Top of the year, GPA 1.3 (Germany)" #[cite: 1]
+          - Top of the year. Finished with honors.
+          - Bachelor thesis: Influence of interactions on the efficiency at maximal power of a microscopic thermodynamic machine
 
     Experience:
-      - company: "University of Osnabrück, Faculty of Physics" #[cite: 1]
-        position: "Research assistant" #[cite: 1]
-        location: "Osnabrück, Germany" #[cite: 1]
-        start_date: 2021 #[cite: 1]
-        end_date: 2023 #[cite: 1]
-        summary: "Employed in the Emmy Noether group Metal Coordination Nano Structures" #[cite: 1]
-        highlights:
-          - "Made important design decisions for a workstation to improve current sensors used in atomic force microscopy and managed the building process" #[cite: 1]
-          - "Worked on a physical development environment for the VRnano project, where I assembled a 3D Printer and made profound changes to the software (Klipper)" #[cite: 1]
+      - company: Faculty of Physics, Osnabrück University
+        position: Research Assistant
+        location: Osnabrück, Germany
+        start_date: 2021
+        end_date: 2023
+        summary: Worked on the VRnano project, a physical development environment for better control of laboratory experiments.
 
-      - company: "University of Osnabrück, Faculty of Physics & Mathematics" #[cite: 1]
-        position: "Teaching assistant" #[cite: 1]
-        location: "Osnabrück, Germany" #[cite: 1]
-        start_date: 2019 #[cite: 1]
-        end_date: 2021 #[cite: 1]
-        summary: ""
+      - company: Faculty of Mathematics, Osnabrück University
+        position: Teaching Assistant
+        location: Osnabrück, Germany
+        start_date: 2019
+        end_date: 2021
+        summary: Tutorial lectures and exam grading.
+
+    Volunteer:
+      - company: People's Climate March
+        position: Lead Organizer
+        location: Zurich, Switzerland
+        start_date: 2014-04-01
+        end_date: 2015-07-01
+        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
         highlights:
-          - "Held tutorial lectures (~10 participants)" #[cite: 1]
-          - "Supervised practice lessons (~20 participants) and graded exams" #[cite: 1]
+          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+          - "Men of the year 2014 by Time magazine"
 
     Awards:
-      - title: "Honors branch, University of Cologne Scholarship" #[cite: 1]
+
+      - title: "Honors branch"
         authors:
-          - "University of Cologne" #[cite: 1]
-        date: 2022 #[cite: 1]
-        awarder: "University of Cologne" #[cite: 1]
-        summary: "Scholarship recipient" #[cite: 1]
+          - "University of Cologne"
+        date: 2022
+        awarder: University of Cologne
 
-      - title: "Niedersachsenstipendium Scholarship" #[cite: 1]
+        summary: Awarded for outstanding academic achievement
+
+      - title: "Niedersachsen Scholarship"
         authors:
-          - "State of Lower Saxony" #[cite: 1]
-        date: 2021 #[cite: 1]
-        awarder: "State of Lower Saxony" #[cite: 1]
-        summary: "Scholarship recipient" #[cite: 1]
+          - "Niedersachsen Ministry of Science and Culture"
+        date: 2022
+        awarder: Niedersachsen Ministry of Science and Culture
+        summary: Awarded for outstanding academic achievement
 
-      - title: "Deutschlandstipendium Scholarship" #[cite: 1]
+      - title: "Deutschlandstipendium"
         authors:
-          - "Federal Ministry of Education and Research" #[cite: 1]
-        date: 2019 #[cite: 1]
-        awarder: "Federal Ministry of Education and Research" #[cite: 1]
-        summary: "Scholarship recipient (2019–2021)" #[cite: 1]
-
-    Skills:
-      - name: "Programming & Tools" #[cite: 1]
-        level: "Advanced" #[cite: 1]
-        icon: "fa-solid fa-code"
-        keywords: "Python, Mathematica, Matlab, C++, Java, Klipper" #[cite: 1]
-
-      - name: "Computer Science" #[cite: 1]
-        level: "Advanced" #[cite: 1]
-        icon: "fa-solid fa-laptop-code"
-        keywords: "Algorithms & Data Structures (Java), Software Development (Java), Technical Computer Science (Assembly), Theoretical Computer Science, Artificial Intelligence (Python)" #[cite: 1]
-
-      - name: "Mathematics & Physics" #[cite: 1]
-        level: "Master" #[cite: 1]
-        icon: "fa-solid fa-atom"
-        keywords: "Analysis, Linear Algebra, Complex Analysis, Probability Theory, Differential Equations, Itô Calculus, Statistical Physics, Stochastic Dynamical Systems" #[cite: 1]
-
-    Languages:
-      - name: "German" #[cite: 1]
-        summary: "Native speaker" #[cite: 1]
-
-      - name: "English" #[cite: 1]
-        summary: "Fluent" #[cite: 1]
-
-      - name: "Spanish" #[cite: 1]
-        summary: "CEFR A2" #[cite: 1]
-
-      - name: "French" #[cite: 1]
-        summary: "CEFR ~A1-A2" #[cite: 1]
-
-    Interests:
-      - name: "Personal Interests" #[cite: 1]
-        icon: "fa-solid fa-heart"
-        keywords: "Lacrosse, Tennis, 3D-Printing, Fachschaft, Pen & Paper, Board games" #[cite: 1]
-
-    Projects:
-      - name: "VRnano project" #[cite: 1]
-        summary: "Worked on a physical development environment where I assembled a 3D Printer and made profound changes to the software (Klipper)" #[cite: 1]
-        highlights:
-          - "3D Printer assembly" #[cite: 1]
-          - "Klipper software modification" #[cite: 1]
-        start_date: 2021 #[cite: 1]
-        end_date: 2023 #[cite: 1]
-
-      - name: "Numerical Software Projects" #[cite: 1]
-        summary: "Implemented numerical software projects about statistical inference, agent-based modelling and statistical physics in Python and C++" #[cite: 1]
-        highlights:
-          - "Statistical Inference" #[cite: 1]
-          - "Agent-based Modelling" #[cite: 1]
-          - "Statistical Physics" #[cite: 1]
-        start_date: ""
-        end_date: ""
+          - "Osnabrück University"
+        date: 2019
+        awarder: Osnabrück University
+        summary: Awarded for outstanding academic achievement from 2019 to 2021
