@@ -6,10 +6,6 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Lukas
 middle_name: 
 last_name: Helmig
-email: "lhelmig@uni-osnabrueck.de"
-github_username: "lhelmig"
-linkedin_username: "lukashelmig"
-scholar_userid: "wm_q0_UAAAAJ"
 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
