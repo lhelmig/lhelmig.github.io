@@ -15,7 +15,7 @@ materials:
 schedule:
   - date: 28 & 29 Sept
     topic: Warm-up, Gleichungen und Aussagenlogik
-    description: Wir beschäftigen uns mit Mengen, Rechenregeln, komplexen Zahlen und schauen uns verschiedene Gleichungsformen an. Abschließend gibt es einen Einstieg in mathematische Aussagenlogik.
+    description: Mengen, Rechenregeln, komplexen Zahlen und Gleichungen. Abschließend gibt es einen Einstieg in mathematische Aussagenlogik.
 
   - date: 30 Sept
     topic: Elementare Funktionen
