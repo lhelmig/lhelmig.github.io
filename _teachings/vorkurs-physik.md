@@ -8,6 +8,10 @@ term: WS
 location: 32/1xx
 time: Montags bis Freitags von 13:00-15:00 Uhr.
 course_id: data-science-fundamentals
+materials:
+  - name: Skript
+    url: /assets/pdf/vorkurs-skript.pdf
+
 schedule:
   - date: 28 & 29 Sept
     topic: Warm-up, Gleichungen und Aussagenlogik
@@ -50,7 +54,9 @@ schedule:
 
 Dieser Kurs soll als Einführung in die Mathematik des Physikstudiums dienen. Dabei wiederholen wir Dinge aus der Schule und wo Zeit ist, besprechen wir Konzepte, die über die Schule hinaus gehen. Es wird **keinerlei** Vorwissen vorausgesetzt, also macht euch keine Sorgen.
 
-Aber der eigentliche Grund für diesen Kurs ist, dass ihr Personen kennenlernt, mit denen ihr das Physikstudium zusammen bestreiten könnt. Also kommt auf jeden Fall! 
+Aber der eigentliche Grund für diesen Kurs ist, dass ihr Personen kennenlernt, mit denen ihr das Physikstudium zusammen bestreiten könnt. Also kommt auf jeden Fall!
+
+Hier findet ihr sowohl eine aktuelle Version des Skripts, als auch die Übungsblätter.
 
 ## Bücher
 
