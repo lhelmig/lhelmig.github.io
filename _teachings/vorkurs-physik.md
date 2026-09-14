@@ -9,89 +9,50 @@ location: 32/1xx
 time: Montags bis Freitags von 13:00-15:00 Uhr.
 course_id: data-science-fundamentals
 schedule:
-  - week: 1
-    date: Feb 5
-    topic: Introduction to Data Science
-    description: Overview of the data science workflow and key concepts.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+  - date: 28 & 29 Sept
+    topic: Warm-up, Gleichungen und Aussagenlogik
+    description: Wir beschäftigen uns mit Mengen, Rechenregeln, komplexen Zahlen und schauen uns verschiedene Gleichungsformen an. Abschließend gibt es einen Einstieg in mathematische Aussagenlogik.
 
-  - week: 2
-    date: Feb 12
-    topic: Data Collection and APIs
-    description: Methods for collecting data through APIs, web scraping, and databases.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 1
-        url: /assets/pdf/example_pdf.pdf
+  - date: 30 Sept
+    topic: Elementare Funktionen
+    description: Wiederholung von Polynomen, Exponentialfunktion, Logarithmus und trigonometrischen Funktionen. Danach dann noch Hyperbelfunktionen.
 
-  - week: 3
-    date: Feb 19
-    topic: Data Cleaning and Preprocessing
-    description: Techniques for handling missing values, outliers, and data transformation.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
+  - date: 1 Okt
+    topic: Differentialrechnung
+    description: Differenzquotient, Ableitungsregeln und wichtige Ableitungen. Abschließend weiterführende Themen wie Taylorreihe, Differenzieren imnpliziter Funktionen und totales Differential.
 
-  - week: 4
-    date: Feb 26
-    topic: Exploratory Data Analysis
-    description: Descriptive statistics, visualization, and pattern discovery.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 2
-        url: /assets/pdf/example_pdf.pdf
+  - date: 2 Okt
+    topic: Integralrechnung
+    description: Herleitung über Summation, Integrationsregeln, Mehrfachintegrale. Am Ende noch Oberflächen- Volumenbestimmung anhand von Integralen.
 
-  - week: 5
-    date: Mar 4
-    topic: Statistical Analysis
-    description: Hypothesis testing, confidence intervals, and statistical inference.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Review Materials
-        url: /assets/pdf/example_pdf.pdf
+  - date: 5 Okt
+    topic: Trigonometrie
+    description: Geometrische Grundlagen, Symmetrien, Additionstheoreme. Danach Polarkoordinaten und Herleitung der eulerschen Identität.
 
-  - week: 6
-    date: Mar 11
-    topic: Data Visualization
-    description: Principles and tools for effective data visualization.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 3
-        url: /assets/pdf/example_pdf.pdf
+  - date: 6 Okt
+    topic: Lineare Gleichungssysteme
+    description: Lösungsmengen, Äquivalenzumformungen und Anwendungen.
+
+  - date: 7 Okt
+    topic: Vektoren
+    description: Einführung, Rechenregeln, Geraden und Ebenen mit Vektoren.
+
+  - date: 8 Okt
+    topic: Matrizen
+    description: Einführung, Grundlegendes Rechnen mit Matrizen insbesondere Invertieren von Matrizen. Als weiterführendes Konzept wird noch die Determinante eingeführt.
+  
+  - date: 9 Okt
+    topic: Stochastik
+    description: Laplace-Experimente, Kombinatorik, Baumdiagramme. Abschließend Wahrscheinlichkeitsdichten und Verteilungsfunktionen.
 ---
 
-## Course Overview
+## Kursübersicht
 
-This course provides a comprehensive introduction to data science principles and practices. Students will:
+Dieser Kurs soll als Einführung in die Mathematik des Physikstudiums dienen. Dabei wiederholen wir Dinge aus der Schule und wo Zeit ist, besprechen wir Konzepte, die über die Schule hinaus gehen. Es wird **keinerlei** Vorwissen vorausgesetzt, also macht euch keine Sorgen.
 
-- Learn the end-to-end data science workflow
-- Gain practical experience with data manipulation tools
-- Develop skills in data visualization and communication
-- Apply statistical methods to derive insights from data
+Aber der eigentliche Grund für diesen Kurs ist, dass ihr Personen kennenlernt, mit denen ihr das Physikstudium zusammen bestreiten könnt. Also kommt auf jeden Fall! 
 
-## Prerequisites
+## Bücher
 
-- Basic programming knowledge (preferably in Python)
-- Introductory statistics
-- Comfort with basic algebra
-
-## Textbooks
-
-- "Python for Data Analysis" by Wes McKinney
-- "Data Science from Scratch" by Joel Grus
-
-## Grading
-
-- Assignments: 50%
-- Project: 40%
-- Participation: 10%
+- "Mathematik für Physiker 1" von Klaus Weltner
+- "Mathematics for Physicists: Introductory Concepts and Methods" von Alexander Altland und Jan von Delft
