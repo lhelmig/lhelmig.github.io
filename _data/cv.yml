@@ -30,9 +30,9 @@ cv:
         start_date: 2022
         end_date: 2025
         highlights:
-          - Top of the year.
           - Specialized in solid state theory and quantum information.
           - Thesis on "Restricted Boltzmann Machines and Hopfield Networks".
+          - Top of the year.
 
       - institution: Ecole Normale Supérieure de Paris
         location: Paris, France
@@ -49,8 +49,8 @@ cv:
         start_date: 2018
         end_date: 2021
         highlights:
-          - Top of the year. Finished with honors.
           - Thesis on "Influence of interactions on the efficiency at maximal power of a microscopic thermodynamic machine".
+          - Top of the year. Finished with honors.
 
     Experience:
       - company: Faculty of Physics, Osnabrück University
