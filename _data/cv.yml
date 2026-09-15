@@ -96,22 +96,33 @@ cv:
       - name: "Theoretical Physics III"
         location: Osnabrück, Germany
         date: 2026
-        summary: The course covers advanced topics in classicalmechanics and electrodynamics. Held weekly exercise classes and provided feedback to students.
+        highlights: 
+          - Advanced topics in classicalmechanics and electrodynamics.
+          - Held weekly exercise classes and provided feedback to students.
 
       - name: "Theoretical Physics IV"
         location: Osnabrück, Germany
         date: 2025
-        summary: The course covers advanced topics in quantum mechanics and statistical mechanics. Held weekly exercise classes and provided feedback to students.
         highlights:
+          - Advanced topics in quantum mechanics and statistical mechanics.
+          - Held weekly exercise classes and provided feedback to students.
           - The course placed in the top 14% of all courses at Osnabrück University in the student evaluation.
     Outreach:
 
       - name: "Volunteer at DOPPLERS"
         location: Osnabrück, Germany
         date: 2026
-        summary: DOPPLERS is a yearly theoretical physics competition held at different german universities and supported by the German Physical Society (DPG). I organized the academic program including two speakers and held a workshop on decision-making myself. Also, I seeked and acquired sponsoring for the catering. On the weekend of the event itself, I was volunteering and helping with the event in general.
+        summary: DOPPLERS is a yearly theoretical physics competition held at different german universities and supported by the German Physical Society (DPG).
+        highlights:
+          - Organized the academic program including two speakers and held a workshop on decision-making myself.
+          - Sought and acquired sponsoring for the catering.
+          - Volunteered and helped with the event in general.
 
       - name: "Course instructor"
         location: Jülich, Germany
         date: 2025
-        summary: Developed a 2-week course (50 hours) on quantum computing for high school students. The course included lectures, exercise lessons and a final project phase with an accompanying poster session. The course was held in Jülich, Germany, and was part of the Deutsche Schülerakademie program.
+        summary: The course was held in Jülich, Germany, and was part of the Deutsche Schülerakademie program.
+        highlights:
+          - Developed a 2-week course (50 hours) on quantum computing for high school students. 
+          - Conducted lectures and exercise lessons 
+          - Guided students through a final project phase with an accompanying poster session.
