@@ -93,23 +93,27 @@ cv:
 
     Teaching:
 
-      - name: "Theoretical Physics III"
+      - company: "Theoretical Physics III"
+        position: Teaching Assistant
         location: Osnabrück, Germany
         date: 2026
         highlights: 
           - Advanced topics in classicalmechanics and electrodynamics.
           - Held weekly exercise classes and provided feedback to students.
 
-      - name: "Theoretical Physics IV"
+      - company: "Theoretical Physics IV"
+        position: Teaching Assistant
         location: Osnabrück, Germany
-        date: 2025
+        start_date: 2025
+        end_date: 2026
         highlights:
           - Advanced topics in quantum mechanics and statistical mechanics.
           - Held weekly exercise classes and provided feedback to students.
           - The course placed in the top 14% of all courses at Osnabrück University in the student evaluation.
     Outreach:
 
-      - name: "Volunteer at DOPPLERS"
+      - company: "DOPPLERS"
+        position: Volunteer
         location: Osnabrück, Germany
         date: 2026
         summary: DOPPLERS is a yearly theoretical physics competition held at different german universities and supported by the German Physical Society (DPG).
@@ -118,7 +122,8 @@ cv:
           - Sought and acquired sponsoring for the catering.
           - Volunteered and helped with the event in general.
 
-      - name: "Course instructor"
+      - company: "Deutsche Schülerakademie"
+        position: Course Instructor
         location: Jülich, Germany
         date: 2025
         summary: The course was held in Jülich, Germany, and was part of the Deutsche Schülerakademie program.
