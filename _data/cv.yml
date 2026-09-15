@@ -102,9 +102,10 @@ cv:
         location: Osnabrück, Germany
         date: 2025
         summary: The course covers advanced topics in quantum mechanics and statistical mechanics. Held weekly exercise classes and provided feedback to students.
-
+        highlights:
+          - The course placed in the top 14% of all courses at Osnabrück University in the student evaluation.
     Outreach:
-    
+
       - name: "Volunteer at DOPPLERS"
         location: Osnabrück, Germany
         date: 2026
