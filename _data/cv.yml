@@ -93,12 +93,20 @@ cv:
 
     teaching:
 
+      - company: "Pre-course in Mathematics"
+        position: Lecturer
+        location: Osnabrück, Germany
+        date: 2026
+        highlights:
+          - Taught a 2-week pre-course in mathematics for first-year physics students.
+          - Covered topics such as linear algebra, calculus, and probability theory.
+
       - company: "Theoretical Physics III"
         position: Teaching Assistant
         location: Osnabrück, Germany
         date: 2026
         highlights: 
-          - Advanced topics in classicalmechanics and electrodynamics.
+          - Advanced topics in classical mechanics and electrodynamics.
           - Held weekly exercise classes and provided feedback to students.
 
       - company: "Theoretical Physics IV"
