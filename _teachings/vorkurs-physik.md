@@ -5,12 +5,9 @@ description: Dieser Kurs soll die neuen Studierenden an die Mathematik der erste
 instructor: Lukas Helmig
 year: 2026
 term: WS
-location: 32/1xx
+location: 32/101
 time: Montags bis Freitags von 13:00-15:00 Uhr.
 course_id: data-science-fundamentals
-materials:
-  - name: Skript
-    url: /assets/pdf/vorkurs-skript.pdf
 
 schedule:
   - date: 28 & 29 Sept
