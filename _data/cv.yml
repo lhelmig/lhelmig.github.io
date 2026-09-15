@@ -11,13 +11,6 @@ cv:
     - network: Google Scholar
       username: wm_q0_UAAAAJ
 
-  address:
-    street: Barbarastraße 7
-    city: Osnabrück
-    region: Niedersachsen
-    postalCode: 49076
-    countryCode: DE
-
   sections:
     Education:
       - institution: Osnabrück University
