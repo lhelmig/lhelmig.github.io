@@ -91,8 +91,8 @@ cv:
         awarder: Osnabrück University
         summary: Awarded for outstanding academic achievement from 2019 to 2021
 
-    # Teaching:
-    #   - name: "Theoretical Physics III"
+    Teaching:
+      - name: "Theoretical Physics III"
     #     location: Osnabrück, Germany
     #     date: 2026
     #     summary: The course covers advanced topics in classicalmechanics and electrodynamics. Held weekly exercise classes and provided feedback to students.
