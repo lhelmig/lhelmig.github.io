@@ -41,7 +41,7 @@ cv:
         highlights:
           - Top of the year.
           - Specialized in solid state theory and quantum information.
-          - Master thesis: Restricted Boltzmann Machines and Hopfield Networks
+          - Master thesis on "Restricted Boltzmann Machines and Hopfield Networks".
 
       - institution: Ecole Normale Supérieure de Paris
         location: Paris, France
@@ -60,7 +60,7 @@ cv:
         end_date: 2021
         highlights:
           - Top of the year. Finished with honors.
-          - Bachelor thesis: Influence of interactions on the efficiency at maximal power of a microscopic thermodynamic machine
+          - Bachelor thesis on "Influence of interactions on the efficiency at maximal power of a microscopic thermodynamic machine".
 
     Experience:
       - company: Faculty of Physics, Osnabrück University
