@@ -1,8 +1,9 @@
 cv:
   name: Lukas Helmig
-  headline: PhD Student in Theoretical Physics
+  label: PhD Student in Theoretical Physics
   email: lhelmig@uni-osnabrueck.de
-  location: Osnabrück, Germany
+  location: Onsabrück, Germany
+  image: ""
  
   social_networks:
     - network: GitHub
@@ -12,12 +13,20 @@ cv:
     - network: Google Scholar
       username: wm_q0_UAAAAJ
 
+  address:
+    street: Barbarastraße 7
+    city: Osnabrück
+    region: Niedersachsen
+    postalCode: 49076
+    countryCode: DE
+
   sections:
     Education:
       - institution: Osnabrück University
         location: Osnabrück, Germany
+        url: https://www.uni-osnabrueck.de/
         area: Physics
-        degree: PhD
+        studyType: PhD
         start_date: 2025
         end_date: 2028
         highlights:
@@ -26,7 +35,7 @@ cv:
       - institution: University of Cologne
         location: Cologne, Germany
         area: Physics
-        degree: Master of Science
+        studyType: Master of Science
         start_date: 2022
         end_date: 2025
         highlights:
@@ -37,7 +46,7 @@ cv:
       - institution: Ecole Normale Supérieure de Paris
         location: Paris, France
         area: Physics
-        degree: Erasmus exchange
+        studyType: Erasmus exchange
         start_date: 2023
         end_date: 2024
         highlights:
@@ -46,7 +55,7 @@ cv:
       - institution: Osnabrück University
         location: Osnabrück, Germany
         area: Physics
-        degree: Bachelor of Science
+        studyType: Bachelor of Science
         start_date: 2018
         end_date: 2021
         highlights:
@@ -69,26 +78,54 @@ cv:
         summary: Tutorial lectures and exam grading.
 
     Awards:
-      - name: Honors branch
-        location: University of Cologne
+
+      - title: "Honors branch"
+        authors:
+          - "University of Cologne"
         date: 2022
-        summary: Awarded for outstanding academic achievement.
+        awarder: University of Cologne
 
-      - name: Niedersachsen Scholarship
-        location: Niedersachsen Ministry of Science and Culture
+        summary: Awarded for outstanding academic achievement
+
+      - title: "Niedersachsen Scholarship"
+        authors:
+          - "Niedersachsen Ministry of Science and Culture"
         date: 2021
-        summary: Awarded for outstanding academic achievement.
+        awarder: Niedersachsen Ministry of Science and Culture
+        summary: Awarded for outstanding academic achievement
 
-      - name: Deutschlandstipendium
-        location: Osnabrück University
+      - title: "Deutschlandstipendium"
+        authors:
+          - "Osnabrück University"
         date: 2019
-        summary: Awarded for outstanding academic achievement (2019-2021).
-    
-    volunteer:
-    - name: Volunteer at DOPPLERS
-      institution: German Physical Society (DPG)
-      location: Osnabrück, Germany
-      date: 2026
-      highlights:
-        - "Organized the academic program including two speakers."
-        - "Acquired sponsoring for catering and assisted during the event."
+        awarder: Osnabrück University
+        summary: Awarded for outstanding academic achievement from 2019 to 2021
+
+    Teaching:
+      - course: "Theoretical Physics III"
+        institution: Osnabrück University
+        location: Osnabrück, Germany
+        start_date: 2026
+        end_date: 2026
+        summary: The course covers advanced topics in classicalmechanics and electrodynamics. Held weekly exercise classes and provided feedback to students.
+
+      - course: "Theoretical Physics IV"
+        institution: Osnabrück University
+        location: Osnabrück, Germany
+        start_date: 2025
+        end_date: 2026
+        summary: The course covers advanced topics in quantum mechanics and statistical mechanics. Held weekly exercise classes and provided feedback to students.
+
+    Outreach:
+
+      - title: "Volunteer at DOPPLERS"
+        institution: German Physical Society (DPG)
+        location: Osnabrück, Germany
+        date: 2026
+        summary: DOPPLERS is a yearly theoretical physics competition held at different german universities and supported by the German Physical Society (DPG). I organized the academic program including two speakers and held a workshop on decision-making myself. Also, I seeked and acquired sponsoring for the catering. On the weekend of the event itself, I was volunteering and helping with the event in general.
+
+      - title: "Course instructor"        
+        institution: Deutsche Schülerakademie
+        location: Jülich, Germany
+        date: 2025
+        summary: Developed a 2-week course (50 hours) on quantum computing for high school students. The course included lectures, exercise lessons and a final project phase with an accompanying poster session. The course was held in Jülich, Germany, and was part of the Deutsche Schülerakademie program.
