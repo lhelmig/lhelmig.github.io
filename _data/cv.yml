@@ -1,9 +1,7 @@
 cv:
   name: Lukas Helmig
-  label: PhD Student in Theoretical Physics
   email: lhelmig@uni-osnabrueck.de
   location: Onsabrück, Germany
-  image: ""
  
   social_networks:
     - network: GitHub
@@ -24,7 +22,6 @@ cv:
     Education:
       - institution: Osnabrück University
         location: Osnabrück, Germany
-        url: https://www.uni-osnabrueck.de/
         area: Physics
         studyType: PhD
         start_date: 2025
