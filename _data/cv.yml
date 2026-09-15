@@ -84,21 +84,11 @@ cv:
         date: 2019
         summary: Awarded for outstanding academic achievement (2019-2021).
     
-    Teaching:
-      - name: Theoretical Physics III
-        location: Osnabrück University, Germany
-        start_date: 2026
-        end_date: 2026
-        highlights: The course covers advanced topics in classical mechanics and electrodynamics. Held weekly exercise classes and provided feedback to students.
-
-      - name: Theoretical Physics IV
-        location: Osnabrück University, Germany
-        start_date: 2025
-        end_date: 2026
-        highlights: The course covers advanced topics in quantum mechanics and statistical mechanics. Held weekly exercise classes and provided feedback to students.
-
-    Outreach:
-      - name: Volunteer at DOPPLERS
-        location: German Physical Society (DPG), Osnabrück, Germany
-        date: 2026
-        highlights: DOPPLERS is a yearly theoretical physics competition held at different german universities and supported by the German Physical Society (DPG). I organized the academic program including two speakers and held a workshop on decision-making myself. Also, I sought and acquired sponsoring for the catering. On the weekend of the event itself, I was volunteering and helping with the event in general.
+    volunteer:
+    - name: Volunteer at DOPPLERS
+      institution: German Physical Society (DPG)
+      location: Osnabrück, Germany
+      date: 2026
+      highlights:
+        - "Organized the academic program including two speakers."
+        - "Acquired sponsoring for catering and assisted during the event."
