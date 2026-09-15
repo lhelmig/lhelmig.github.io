@@ -41,7 +41,7 @@ cv:
         highlights:
           - Top of the year.
           - Specialized in solid state theory and quantum information.
-          - Master thesis on "Restricted Boltzmann Machines and Hopfield Networks".
+          - Thesis on "Restricted Boltzmann Machines and Hopfield Networks".
 
       - institution: Ecole Normale Supérieure de Paris
         location: Paris, France
@@ -60,7 +60,7 @@ cv:
         end_date: 2021
         highlights:
           - Top of the year. Finished with honors.
-          - Bachelor thesis on "Influence of interactions on the efficiency at maximal power of a microscopic thermodynamic machine".
+          - Thesis on "Influence of interactions on the efficiency at maximal power of a microscopic thermodynamic machine".
 
     Experience:
       - company: Faculty of Physics, Osnabrück University
@@ -90,7 +90,7 @@ cv:
       - title: "Niedersachsen Scholarship"
         authors:
           - "Niedersachsen Ministry of Science and Culture"
-        date: 2022
+        date: 2021
         awarder: Niedersachsen Ministry of Science and Culture
         summary: Awarded for outstanding academic achievement
 
@@ -100,3 +100,32 @@ cv:
         date: 2019
         awarder: Osnabrück University
         summary: Awarded for outstanding academic achievement from 2019 to 2021
+
+    Teaching:
+      - course: "Theoretical Physics III"
+        institution: Osnabrück University
+        location: Osnabrück, Germany
+        start_date: 2026
+        end_date: 2026
+        summary: The course covers advanced topics in classicalmechanics and electrodynamics. Held weekly exercise classes and provided feedback to students.
+
+      - course: "Theoretical Physics IV"
+        institution: Osnabrück University
+        location: Osnabrück, Germany
+        start_date: 2025
+        end_date: 2026
+        summary: The course covers advanced topics in quantum mechanics and statistical mechanics. Held weekly exercise classes and provided feedback to students.
+
+    Outreach:
+
+      - title: "Volunteer at DOPPLERS"
+        institution: German Physical Society (DPG)
+        location: Osnabrück, Germany
+        date: 2026
+        summary: DOPPLERS is a yearly theoretical physics competition held at different german universities and supported by the German Physical Society (DPG). I organized the academic program including two speakers and held a workshop on decision-making myself. Also, I seeked and acquired sponsoring for the catering. On the weekend of the event itself, I was volunteering and helping with the event in general.
+
+      - title: "Course instructor"        
+        institution: Deutsche Schülerakademie
+        location: Jülich, Germany
+        date: 2025
+        summary: Developed a 2-week course (50 hours) on quantum computing for high school students. The course included lectures, exercise lessons and a final project phase with an accompanying poster session. The course was held in Jülich, Germany, and was part of the Deutsche Schülerakademie program.
