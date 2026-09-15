@@ -32,6 +32,6 @@ A non-complete list of other interests: statistical inference, energy-based mode
 
 Previously, I have worked on stochastic thermodynamics.
 
-I did my Bachelor's degree in Physics at [Osnabrück University](https://www.uni-osnabrueck.de/), followed up by a Master of Science in Physics at the [University of Cologne](https://uni-koeln.de/). During my Master's degree, I spend two semesters abroad at [ENS Paris](https://www.ens.psl.eu/).
+I did my Bachelor's degree in Physics at [Osnabrück University](https://www.uni-osnabrueck.de/), followed up by a Master of Science in Physics at the [University of Cologne](https://uni-koeln.de/). During my Master's degree, I spend two semesters abroad at [ENS Paris](https://www.ens.psl.eu/). My academic cv can be found [here]({{ '/assets/rendercv/rendercv_output/Lukas_Helmig_CV.pdf' | relative_url }}).
 
 In my freetime, I enjoy drawing, designing posters and doing all kinds of physical activity. Sometimes, you can also find me roaming around mountains.
