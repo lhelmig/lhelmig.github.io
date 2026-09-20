@@ -10,12 +10,19 @@ time: Montags bis Freitags von 13:00-15:00 Uhr.
 course_id: physik-vorkurs
 
 schedule:
-  - date: 28 & 29 Sept
+  - date: 28 Sept
     topic: Warm-up, Gleichungen und Aussagenlogik
-    description: Mengen, Rechenregeln, komplexen Zahlen und Gleichungen. Abschließend gibt es einen Einstieg in mathematische Aussagenlogik.
+    description: Mengen, Rechenregeln, komplexen Zahlen und Gleichungen.
     materials:
       - name: Übungsblatt 1
         url: /assets/pdf/vorkurs/uebungen/Uebungsblatt-01.pdf
+      - name: Übungsblatt 2
+        url: /assets/pdf/vorkurs/uebungen/Uebungsblatt-02.pdf
+
+  - date: 29 Sept
+    topic: Gleichungen und Aussagenlogik
+    description: Gleichungen und Einstieg in mathematische Aussagenlogik.
+    materials:
       - name: Übungsblatt 2
         url: /assets/pdf/vorkurs/uebungen/Uebungsblatt-02.pdf
       - name: Übungsblatt 3
